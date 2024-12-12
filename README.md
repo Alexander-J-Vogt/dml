@@ -1,1 +1,8 @@
-# dml
+# Machine Learning in Econometrics Seminar
+This seminar focused on the intersection of machine learning and econometrics, exploring how modern machine learning techniques can enhance traditional econometric methods for causal inference and prediction. The course covered key topics such as regularization methods (Lasso, Ridge), tree-based algorithms (Random Forests, Gradient Boosting), and their applications in high-dimensional datasets. A significant emphasis was placed on methods like the Double Machine Learning framework, which combines predictive modeling with causal effect estimation. Practical applications included using these techniques to address endogeneity issues, improve policy evaluation, and analyze large-scale economic datasets. This seminar provided valuable insights into integrating machine learning algorithms into econometric workflows, offering both predictive accuracy and rigorous interpretability.
+
+# Empirical Analysis of a Policy reducing the Gender Pay Gap and Gender Employment Gap in the U.S. Policy Recommendation for Germany
+This term paper evaluates the causal impact of a 2007 U.S. policy aimed at reducing the Gender Pay Gap (GPG) and Gender Employment Gap (GEG) through salary transparency and childcare incentives. Using panel data from 2005 and 2010, the study employs a Double Machine Learning (DML) approach to estimate the policy’s effects. The results indicate a 23–28% increase in hourly wages for women, with no significant change in employment probabilities. The analysis highlights regional and demographic heterogeneity, with black women and residents in the Southern U.S. benefiting the most. The paper also explores the potential implications of implementing a similar policy in Germany, emphasizing structural labor market differences and regional disparities.
+
+- m6_dml_econometrics.R: R Code for the empirical analysis
+-  m6_dml_term_paper.pdf: Term Paper for the empirical anaylsis
